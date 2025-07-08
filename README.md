@@ -196,16 +196,3 @@ online-learning-system/
 - 📚 讲师分成与结算模块
 
 ---
-
-## 📬 联系与贡献
-
-欢迎提交 Issue、Fork 本项目或参与贡献：
-
-- 📧 Email: example@example.com  
-- ⭐ GitHub: 欢迎 Star 支持项目成长！
-
----
-
-## 📄 License
-
-本项目使用 MIT 协议，详情查看 [LICENSE](./LICENSE) 文件。
